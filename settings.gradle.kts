@@ -11,3 +11,4 @@ plugins {
 }
 
 rootProject.name = "school57spring"
+include("lesson2")
